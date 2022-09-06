@@ -1,6 +1,5 @@
 # flask-part-1.
 HHA 504 assignment#2
-# flask-part-1
 #HHA 504 Assignment#2
 #create app.py file
 #connect through ssh terminal
