@@ -6,3 +6,6 @@ HHA 504 assignment#2
 $ sudo apt-get update
 $ sudo apt install python3-pip
 $ Pip3 install flask
+
+
+URL_GCP: 35.184.113.106, http://35.184.113.106/name, http://35.184.113.106/page
