@@ -30,4 +30,4 @@ $ sudo python3 app.py
 URL_GCP: 35.184.113.106, http://35.184.113.106/name, http://35.184.113.106/page
 
 
-URL_Azure: http://0.0.0.0. ## got error for the other two.
+URL_Azure: http://0.0.0.0. ## got error for the other two. 
